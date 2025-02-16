@@ -1,3 +1,6 @@
+name Mercy Kirimi
+BSCIT05-0047\2024
+    
 #include <iostream>
 #include <string>
 using namespace std;
